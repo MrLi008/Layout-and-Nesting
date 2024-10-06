@@ -1,0 +1,17 @@
+/.vscode
+/config.cfg
+/demo-一趟效果.py
+/demo-二叉树优化版.py
+/demo-多边形.py
+/demo-正式版.py
+/demo-补充place递归.py
+/demo_简版_利用率计算.py
+/log
+/streamlit_utils.py
+/__pycache__
+/录屏
+/执行效果.md
+/排版套料-不规则示例.py
+/排版套料-不规则示例2.py
+/排版套料-动态规划示例.py
+/排版套料-材料分组.py

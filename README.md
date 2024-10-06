@@ -1,3 +1,15 @@
+先上效果图
+
+![image](https://github.com/user-attachments/assets/23610e7e-91d7-4246-a683-65d5da7b7f60)
+![image](https://github.com/user-attachments/assets/5899ff12-7c3c-4b0f-9684-81b0ac5a6ab1)
+
+![image](https://github.com/user-attachments/assets/1920c38a-3596-4950-87e0-e8a9fc8edfd0)
+
+
+
+
+
+
 排版套料是一个涉及材料优化利用的工艺过程，主要应用在服装制造、工业设计以及其他需要材料切割的领域。以下是对排版套料的详细介绍：
 
 ### 一、定义
